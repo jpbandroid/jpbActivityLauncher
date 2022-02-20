@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.Material3.DayNight">
+        <item name="android:scrollbarThumbHorizontal">@drawable/afs_md2_thumb</item>
+        <item name="android:scrollbarThumbVertical">@drawable/afs_md2_thumb</item>
+        <item name="android:scrollbarTrackHorizontal">@drawable/afs_md2_track</item>
+        <item name="android:scrollbarTrackVertical">@drawable/afs_md2_track</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/afs_md2_thumb</item>
+        <item name="android:fastScrollTrackDrawable">@drawable/afs_md2_track</item>
+        <item name="android:statusBarColor">?colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+    </style>
+    <style name="AppTheme.About" parent="@style/Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:scrollbarThumbHorizontal">@drawable/afs_md2_thumb</item>
+        <item name="android:scrollbarThumbVertical">@drawable/afs_md2_thumb</item>
+        <item name="android:scrollbarTrackHorizontal">@drawable/afs_md2_track</item>
+        <item name="android:scrollbarTrackVertical">@drawable/afs_md2_track</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/afs_md2_thumb</item>
+        <item name="android:fastScrollTrackDrawable">@drawable/afs_md2_track</item>
+        <item name="android:statusBarColor">?colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+    </style>
+</resources>

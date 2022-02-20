@@ -19,7 +19,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5ff451-e057-4cb0-9c74-48876cd20d18" name="Default Changelist" comment="vcs.xml added" />
+    <list default="true" id="bd5ff451-e057-4cb0-9c74-48876cd20d18" name="Default Changelist" comment="Adds app to repo (actually!)">
+      <change beforePath="$PROJECT_DIR$/ActivityLauncherApp/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ActivityLauncherApp/src/main/res/values/themes.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,13 +213,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640889204856</updated>
-    </task>
-    <task id="LOCAL-00015" summary="v2.0&#10;updates ActivityLauncher base to v1.14.0">
-      <created>1642788448329</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1642788448329</updated>
     </task>
     <task id="LOCAL-00016" summary="v2.0&#10;Settings functionality">
       <created>1642789794439</created>
@@ -555,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645366864116</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Adds app to repo (actually!)">
+      <created>1645368013320</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1645368013320</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -605,7 +607,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v2.0&#10;Adds jpb icon" />
     <MESSAGE value="v2.0&#10;Changelog update" />
     <MESSAGE value="v2.0&#10;Ability to view install date and last update time added" />
     <MESSAGE value="v2.0&#10;Changelog update for Beta 1" />
@@ -630,6 +631,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value=".gitignore added" />
     <MESSAGE value="vcs.xml added" />
-    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml added" />
+    <MESSAGE value="Adds app to repo (actually!)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds app to repo (actually!)" />
   </component>
 </project>
