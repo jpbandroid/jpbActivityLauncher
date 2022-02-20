@@ -19,7 +19,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5ff451-e057-4cb0-9c74-48876cd20d18" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="bd5ff451-e057-4cb0-9c74-48876cd20d18" name="Default Changelist" comment="vcs.xml added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,13 +103,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ActivityLauncherApp/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Suggestions" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Properties" />
@@ -210,27 +211,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640889204856</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Git commit&#10;v1.0">
-      <created>1641240630058</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1641240630058</updated>
-    </task>
-    <task id="LOCAL-00013" summary="v1.1">
-      <created>1641496296812</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1641496296812</updated>
-    </task>
-    <task id="LOCAL-00014" summary="v1.1">
-      <created>1641496436878</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1641496436878</updated>
     </task>
     <task id="LOCAL-00015" summary="v2.0&#10;updates ActivityLauncher base to v1.14.0">
       <created>1642788448329</created>
@@ -554,7 +534,28 @@
       <option name="project" value="LOCAL" />
       <updated>1645366557933</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Initial commit">
+      <created>1645366775361</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1645366775363</updated>
+    </task>
+    <task id="LOCAL-00062" summary=".gitignore added">
+      <created>1645366849091</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1645366849091</updated>
+    </task>
+    <task id="LOCAL-00063" summary="vcs.xml added">
+      <created>1645366864116</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1645366864116</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -604,8 +605,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="v2.0&#10;AboutActivity restored&#10;Re-added Target API and Min API level info" />
-    <MESSAGE value="v2.0&#10;AboutActivity in Settings&#10;New Settings UI elements&#10;Changelog added!" />
     <MESSAGE value="v2.0&#10;Adds jpb icon" />
     <MESSAGE value="v2.0&#10;Changelog update" />
     <MESSAGE value="v2.0&#10;Ability to view install date and last update time added" />
@@ -629,6 +628,8 @@
     <MESSAGE value="v2.0&#10;RC4" />
     <MESSAGE value="v2.0&#10;Stable!" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value=".gitignore added" />
+    <MESSAGE value="vcs.xml added" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml added" />
   </component>
 </project>
