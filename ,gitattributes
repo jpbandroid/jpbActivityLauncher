@@ -1,2 +1,1 @@
-*.java linguist-detectable=true
-*.* linguist-detectable=false
+linguist-language=Java
