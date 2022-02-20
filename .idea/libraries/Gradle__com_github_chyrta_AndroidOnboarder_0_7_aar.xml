@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chyrta:AndroidOnboarder:0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ae8adf9f1bfbe3d7d552e7098c316d85/transformed/jetified-AndroidOnboarder-0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae8adf9f1bfbe3d7d552e7098c316d85/transformed/jetified-AndroidOnboarder-0.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae8adf9f1bfbe3d7d552e7098c316d85/transformed/jetified-AndroidOnboarder-0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63bc864c85201ee021f6cf2bfca3eabf/transformed/jetified-AndroidOnboarder-0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/63bc864c85201ee021f6cf2bfca3eabf/transformed/jetified-AndroidOnboarder-0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/63bc864c85201ee021f6cf2bfca3eabf/transformed/jetified-AndroidOnboarder-0.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chyrta/AndroidOnboarder/0.7/802bb11eafff3d379afaf1f9d9d30fd3640868d1/AndroidOnboarder-0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chyrta/AndroidOnboarder/0.7/abf0d1c88535f739e1934956769bfe1b27475041/AndroidOnboarder-0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

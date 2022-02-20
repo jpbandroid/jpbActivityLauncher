@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3_xl" />
+        <device id="Nexus 7" />
+        <device id="4.65in 720p (Galaxy Nexus)" />
+        <device id="4.7in WXGA" />
+        <device id="7.6in Foldable" />
+        <device id="4in WVGA (Nexus S)" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd5ff451-e057-4cb0-9c74-48876cd20d18" name="Default Changelist" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Jakub\.android\avd\Android_TV_1080p_API_31.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ActivityLauncher" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ActivityLauncher" type="f1a62948:ProjectNode" />
+                <item name="ActivityLauncherApp" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ActivityLauncher" type="f1a62948:ProjectNode" />
+                <item name="ActivityLauncherApp" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\Jakub\jpbkey.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jpb" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="aclaunh1.14" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2316NILck7U1xDiCpUPMvva7fdR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="BundleExportedModule" value="ActivityLauncher.ActivityLauncherApp" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ActivityLauncherApp/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\java\com\jpb\activitylauncher\utils" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\drawable" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\java\com\jpb\activitylauncher" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\values" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\values-zh" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\values-ru" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\values-pl" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\values-it" />
+      <recent name="C:\Users\Jakub\Downloads\ActivityLauncher\ActivityLauncherApp\src\main\res\values-hu" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.jpb.activitylauncher" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jpb" />
+    </key>
+    <key name="android.template.-1642675009">
+      <recent name="com.jpb.activitylauncher" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ActivityLauncherApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ActivityLauncher.ActivityLauncherApp" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd5ff451-e057-4cb0-9c74-48876cd20d18" name="Default Changelist" comment="" />
+      <created>1640889204856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640889204856</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Git commit&#10;v1.0">
+      <created>1641240630058</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641240630058</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v1.1">
+      <created>1641496296812</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641496296812</updated>
+    </task>
+    <task id="LOCAL-00014" summary="v1.1">
+      <created>1641496436878</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641496436878</updated>
+    </task>
+    <task id="LOCAL-00015" summary="v2.0&#10;updates ActivityLauncher base to v1.14.0">
+      <created>1642788448329</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642788448329</updated>
+    </task>
+    <task id="LOCAL-00016" summary="v2.0&#10;Settings functionality">
+      <created>1642789794439</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642789794439</updated>
+    </task>
+    <task id="LOCAL-00017" summary="v2.0&#10;Critical bugfix&#10;BuildConfig update">
+      <created>1642790007785</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642790007785</updated>
+    </task>
+    <task id="LOCAL-00018" summary="v2.0&#10;Critical bugfix&#10;BuildConfig update">
+      <created>1642790025140</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642790025140</updated>
+    </task>
+    <task id="LOCAL-00019" summary="v2.0&#10;Strings update">
+      <created>1642790791730</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642790791730</updated>
+    </task>
+    <task id="LOCAL-00020" summary="v2.0&#10;Settings activity now launchable">
+      <created>1642794330196</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1642794330196</updated>
+    </task>
+    <task id="LOCAL-00021" summary="v2.0&#10;rebase to Activity Launcher v1.14.0">
+      <created>1642837010412</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1642837010412</updated>
+    </task>
+    <task id="LOCAL-00022" summary="v2.0&#10;readds icons">
+      <created>1643014039226</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643014039226</updated>
+    </task>
+    <task id="LOCAL-00023" summary="v2.0&#10;AGP 7.0.3 -&gt; 7.0.4&#10;Gradle 7.0.2 -&gt; 7.3.3">
+      <created>1643014145989</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643014145989</updated>
+    </task>
+    <task id="LOCAL-00024" summary="v2.0&#10;Readds dependencies">
+      <created>1643014570819</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1643014570820</updated>
+    </task>
+    <task id="LOCAL-00025" summary="v2.0&#10;minSDK 22">
+      <created>1643014647401</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1643014647402</updated>
+    </task>
+    <task id="LOCAL-00026" summary="v2.0&#10;theme modified">
+      <created>1643015333319</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1643015333319</updated>
+    </task>
+    <task id="LOCAL-00027" summary="v2.0&#10;theme modified">
+      <created>1643015390484</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1643015390484</updated>
+    </task>
+    <task id="LOCAL-00028" summary="v2.0&#10;theme upgraded from MD2 to MD3&#10;New ScrollBar">
+      <created>1643015652207</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1643015652207</updated>
+    </task>
+    <task id="LOCAL-00029" summary="v2.0&#10;FastScroll enabled on the ExpandableListView">
+      <created>1643015720614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1643015720614</updated>
+    </task>
+    <task id="LOCAL-00030" summary="v2.0&#10;MonetCompat, MPAndroidChart, AndroidOnboarder">
+      <created>1643016060482</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1643016060482</updated>
+    </task>
+    <task id="LOCAL-00031" summary="v2.0&#10;Updates Settings screen">
+      <created>1643016392367</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1643016392368</updated>
+    </task>
+    <task id="LOCAL-00032" summary="v2.0&#10;Version update">
+      <created>1643016564879</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1643016564879</updated>
+    </task>
+    <task id="LOCAL-00033" summary="v2.0&#10;AboutActivity restored&#10;Re-added Target API and Min API level info">
+      <created>1643017822609</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1643017822609</updated>
+    </task>
+    <task id="LOCAL-00034" summary="v2.0&#10;AboutActivity in Settings&#10;New Settings UI elements&#10;Changelog added!">
+      <created>1643020819675</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1643020819675</updated>
+    </task>
+    <task id="LOCAL-00035" summary="v2.0&#10;Adds jpb icon">
+      <created>1643020932357</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1643020932357</updated>
+    </task>
+    <task id="LOCAL-00036" summary="v2.0&#10;Changelog update">
+      <created>1643020994780</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1643020994780</updated>
+    </task>
+    <task id="LOCAL-00037" summary="v2.0&#10;Critical bugfix">
+      <created>1643032265721</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1643032265721</updated>
+    </task>
+    <task id="LOCAL-00038" summary="v2.0&#10;Ability to view install date and last update time added">
+      <created>1643047492792</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1643047492792</updated>
+    </task>
+    <task id="LOCAL-00039" summary="v2.0&#10;Changelog update for Beta 1">
+      <created>1643047729777</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1643047729777</updated>
+    </task>
+    <task id="LOCAL-00040" summary="v2.0&#10;Critical bugfix">
+      <created>1643047781449</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1643047781449</updated>
+    </task>
+    <task id="LOCAL-00041" summary="v2.0&#10;Critical bugfix">
+      <created>1643048317052</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1643048317052</updated>
+    </task>
+    <task id="LOCAL-00042" summary="v2.0&#10;Critical bugfix">
+      <created>1643048363718</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1643048363718</updated>
+    </task>
+    <task id="LOCAL-00043" summary="v2.0&#10;Language switcher now works&#10;Date bugfix">
+      <created>1643050565847</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1643050565847</updated>
+    </task>
+    <task id="LOCAL-00044" summary="v2.0&#10;Date bugfix">
+      <created>1643050624833</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1643050624833</updated>
+    </task>
+    <task id="LOCAL-00045" summary="v2.0&#10;OSS Licence setup">
+      <created>1643050744592</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1643050744592</updated>
+    </task>
+    <task id="LOCAL-00046" summary="v2.0&#10;OSS Licences restored&#10;Dates fix">
+      <created>1643053605443</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1643053605443</updated>
+    </task>
+    <task id="LOCAL-00047" summary="v2.0&#10;Dates -&gt; Version info">
+      <created>1643393700722</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1643393700722</updated>
+    </task>
+    <task id="LOCAL-00048" summary="v2.0&#10;Amends release date">
+      <created>1643393771708</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1643393771708</updated>
+    </task>
+    <task id="LOCAL-00049" summary="v2.0&#10;Amends changelog">
+      <created>1643393820344</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1643393820344</updated>
+    </task>
+    <task id="LOCAL-00050" summary="v2.0&#10;RC2!!">
+      <created>1643394087670</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1643394087670</updated>
+    </task>
+    <task id="LOCAL-00051" summary="v2.0&#10;Leanback launcher support">
+      <created>1643397771572</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1643397771572</updated>
+    </task>
+    <task id="LOCAL-00052" summary="v2.0&#10;Further TV optimization">
+      <created>1643398086429</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1643398086429</updated>
+    </task>
+    <task id="LOCAL-00053" summary="v2.0&#10;DP2 re-release&#10;Themes bugfix">
+      <created>1643398298222</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1643398298222</updated>
+    </task>
+    <task id="LOCAL-00054" summary="v2.0&#10;Dependency updates">
+      <created>1643398442876</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1643398442876</updated>
+    </task>
+    <task id="LOCAL-00055" summary="v2.0&#10;AGP 7.1.0!">
+      <created>1643398515218</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1643398515218</updated>
+    </task>
+    <task id="LOCAL-00056" summary="v2.0&#10;RC3">
+      <created>1643398592316</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1643398592316</updated>
+    </task>
+    <task id="LOCAL-00057" summary="v2.0&#10;RC4">
+      <created>1643400022838</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1643400022838</updated>
+    </task>
+    <task id="LOCAL-00058" summary="v2.0&#10;RC4">
+      <created>1643400030087</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1643400030087</updated>
+    </task>
+    <task id="LOCAL-00059" summary="v2.0&#10;Stable!">
+      <created>1643400508041</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1643400508041</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Initial commit">
+      <created>1645366557933</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1645366557933</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="v2.0&#10;AboutActivity restored&#10;Re-added Target API and Min API level info" />
+    <MESSAGE value="v2.0&#10;AboutActivity in Settings&#10;New Settings UI elements&#10;Changelog added!" />
+    <MESSAGE value="v2.0&#10;Adds jpb icon" />
+    <MESSAGE value="v2.0&#10;Changelog update" />
+    <MESSAGE value="v2.0&#10;Ability to view install date and last update time added" />
+    <MESSAGE value="v2.0&#10;Changelog update for Beta 1" />
+    <MESSAGE value="v2.0&#10;Critical bugfix" />
+    <MESSAGE value="v2.0&#10;Language switcher now works" />
+    <MESSAGE value="v2.0&#10;Language switcher now works&#10;Date bugfix" />
+    <MESSAGE value="v2.0&#10;Date bugfix" />
+    <MESSAGE value="v2.0&#10;OSS Licence setup" />
+    <MESSAGE value="v2.0&#10;OSS Licences restored&#10;Dates fix" />
+    <MESSAGE value="v2.0&#10;Dates -&gt; Version info" />
+    <MESSAGE value="v2.0&#10;Amends release date" />
+    <MESSAGE value="v2.0&#10;Amends changelog" />
+    <MESSAGE value="v2.0&#10;RC2!!" />
+    <MESSAGE value="v2.0&#10;Leanback launcher support" />
+    <MESSAGE value="v2.0&#10;Further TV optimization" />
+    <MESSAGE value="v2.0&#10;DP2 re-release&#10;Themes bugfix" />
+    <MESSAGE value="v2.0&#10;Dependency updates" />
+    <MESSAGE value="v2.0&#10;AGP 7.1.0!" />
+    <MESSAGE value="v2.0&#10;RC3" />
+    <MESSAGE value="v2.0&#10;RC4" />
+    <MESSAGE value="v2.0&#10;Stable!" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>

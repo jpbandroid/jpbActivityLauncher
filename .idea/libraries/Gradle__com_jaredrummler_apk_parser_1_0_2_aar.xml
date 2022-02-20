@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jaredrummler:apk-parser:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cd3c27c82d26bcb5f372e7fdd6a5877/transformed/jetified-apk-parser-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c25d0d7034a7565722b171c09a24abc8/transformed/jetified-apk-parser-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c25d0d7034a7565722b171c09a24abc8/transformed/jetified-apk-parser-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c25d0d7034a7565722b171c09a24abc8/transformed/jetified-apk-parser-1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/apk-parser/1.0.2/259257f42b2fbefad6fd1c88e4d5e4f6b658b075/apk-parser-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jaredrummler/apk-parser/1.0.2/11e87af2fffdf3016f9b97f50b2f7d3ea910c680/apk-parser-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
